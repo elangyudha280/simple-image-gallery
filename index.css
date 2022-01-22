@@ -32,7 +32,6 @@
 
 .img-thumb .img-item {
   height: 300px;
-  border: 1px solid red;
   flex: 1;
   transition: all 0.5s;
   border-radius: 0.9em;
